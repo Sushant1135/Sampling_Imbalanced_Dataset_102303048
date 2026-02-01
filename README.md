@@ -88,18 +88,16 @@ Five ML models were trained on each sampled dataset:
 
 ## 📈 Visualizations
 
-### Accuracy Comparison Across Models
-![Accuracy Comparison](images/accuracy_comparison_models.png)
-
----
 
 ### Accuracy Heatmap
-![Accuracy Heatmap](images/accuracy_heatmap.png)
+<img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/ae24ab85-eaf4-4297-a329-4d931eb6b9ca" />
+
 
 ---
 
 ### Sampling-wise Performance Visualization
-![Sampling Comparison](images/sampling_comparison.png)
+<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/35e704dd-d9ce-4540-990e-70d1ec2d8e09" />
+
 
 ---
 
